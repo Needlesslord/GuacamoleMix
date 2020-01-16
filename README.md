@@ -191,17 +191,23 @@ Se puede encontrar el Print&Play de todo el juego (instrucciones, cartas, etc.) 
 
 ### Video tutorial con las instrucciones
 
+[Instrucciones del Guacamole Mix](https://youtu.be/lW85QeJrhv0)
+
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde está el vídeo tutorial donde se explica cómo jugar al Guacamole Mix.
 
 https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20las%20instrucciones
 
 ### Video tutorial con un gameplay del juego
 
+[Gameplay del Guacamole Mix - Youtube](https://youtu.be/Ez5Q8ZgJUdY)
+
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde hay vídeos de gameplays del Guacamole Mix.
 
 https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20un%20gameplay%20del%20juego
 
 ### Pitch
+
+[Pitch del Guacamole Mix - Youtube](https://youtu.be/BfQtZQEfzBg)
 
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde están la presentación en formato .pdf y .pptx y el vídeo del pitch.
 
@@ -219,11 +225,11 @@ https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/
 
 Este es el usuario que hemos usado como login en BGG:
 
-https://www.boardgamegeek.com/user/needlesslord
+[Usuario BGG: needlesslord](https://www.boardgamegeek.com/user/needlesslord)
 
 Y a continuación el registro de nuestro juego (lista de juegos de BGG agregados):
 
-https://www.boardgamegeek.com/browse/boardgame?username=needlesslord&sort=title
+[Lista de juegos propuestos de needlesslord](https://www.boardgamegeek.com/browse/boardgame?username=needlesslord&sort=title)
 
 
 
@@ -242,13 +248,13 @@ Los links a continuación son para que sea más fácil encontrar todos los compo
 Página web del juego: aquí se encuentra toda la información del juego (resumen)
 
 
-https://needlesslord.github.io/GuacamoleMix/
+[Guacamole Mix Web Oficial](https://needlesslord.github.io/GuacamoleMix/)
 
 
 GitHub del juego: aquí se encuentra toda la información y componentes del juego
 
 
-https://github.com/Needlesslord/GuacamoleMix
+[GitHub Oficial para la documentación](https://github.com/Needlesslord/GuacamoleMix)
 
 
 ### MATERIAL PROMOCIONAL:
@@ -257,31 +263,31 @@ https://github.com/Needlesslord/GuacamoleMix
 Material extra: aquí se encuentra todo el material extra promocional (pósters, etc.)
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Material%20extra
+[Material extra](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Material%20extra)
 
 
 Pitch: aquí se encuentra la presentación del pitch (formatos .pdf y .pptx) y el vídeo del pitch
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Pitch
+[Pitch Github](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Pitch)
 
 
 Sell Sheet: aquí se encuentra la Sell Sheet del juego
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Sell%20Sheet
+[Sell Sheet](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Sell%20Sheet)
 
 
 Vídeo Instrucciones: aquí se encuentra el vídeo tutorial con las instrucciones
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20las%20instrucciones
+[Vídeo Instrucciones GitHub](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20las%20instrucciones)
 
 
 Gameplay: aquí se encuentra el vídeo tutorial con un gameplay del juego
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20un%20gameplay%20del%20juego
+[Gameplay GitHub](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20un%20gameplay%20del%20juego)
 
 
 ### PRINT&PLAY:
@@ -290,6 +296,6 @@ https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/
 Juego: Imprimiendo todos los archivos de esta carpeta de Github se puede jugar al juego
 
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Juego
+[Descargable](https://github.com/Needlesslord/GuacamoleMix/tree/master/Juego)
 
 
