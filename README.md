@@ -8,16 +8,16 @@
 
 ## Resumen del juego e instrucciones
 
-A partir de 8 años
+ - A partir de 8 años
 
 
-Para 3-6 jugadores
+ - Para 3-6 jugadores
 
 
-Duración: 45 min (dependiendo de los jugadores)
+ - Duración: 45 min (dependiendo de los jugadores)
 
 
-Dificultad: Fácil
+ - Dificultad: Fácil
 
 
 
