@@ -26,21 +26,21 @@ Dificultad: Fácil
 Mezclar cartas:
 
 
-	Mezclar la pila general
+ - Mezclar la pila general
 
-	Mezclar cartas utensilios
+ - Mezclar cartas utensilios
 
-	Mezclar cartas party
+ - Mezclar cartas party
 
-	Mezclar cartas recetas
+ - Mezclar cartas recetas
 
 
 Robar cartas:
 
 
-	Robar 1 carta de receta, visible o no según el criterio del jugador
+ - Robar 1 carta de receta, visible o no según el criterio del jugador
 
-	Robar 2 cartas de la pila genera. Si sale una carta especial, devuélvela al mazo y roba otra
+ - Robar 2 cartas de la pila genera. Si sale una carta especial, devuélvela al mazo y roba otra
 
 
 Empieza el/la mayor, sentido de las agujas del reloj
@@ -191,7 +191,7 @@ Se puede encontrar el Print&Play de todo el juego (instrucciones, cartas, etc.) 
 
 ### Video tutorial con las instrucciones
 
-[Instrucciones del Guacamole Mix](https://youtu.be/lW85QeJrhv0)
+[Instrucciones del Guacamole Mix - Youtube](https://youtu.be/lW85QeJrhv0)
 
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde está el vídeo tutorial donde se explica cómo jugar al Guacamole Mix.
 
