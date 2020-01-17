@@ -70,13 +70,13 @@ GANAR: Se cuentan los puntos y quien tenga más gana
  - Robar una carta ESPECIAS: Hay tres tipos de cartas de ESPECIAS, las de usar inmediatamente (USAR), las que te guardas para usar a voluntad (GUARDAR) o las que te guardas para el final de la partida (FINAL). 
 
 
- + Si son de “USAR”, se destapa y se hace la acción en cuestión. 
+	 + Si son de “USAR”, se destapa y se hace la acción en cuestión. 
 
 
- + Si son de “GUARDAR”, se usan cuando el jugador elija, no tiene porqué ser su turno.
+	 + Si son de “GUARDAR”, se usan cuando el jugador elija, no tiene porqué ser su turno.
 
 
- + Si son de “FINAL”, se guardan para cuando hay recuento de puntos, para el final de puntos.
+	 + Si son de “FINAL”, se guardan para cuando hay recuento de puntos, para el final de puntos.
 
 
 
