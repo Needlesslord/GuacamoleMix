@@ -4,6 +4,14 @@
 
 ***
 
+## Propiedad de Tomás Carreras, Enric-G. Durán y Núria Lamonja
+
+### Contacto: needlesslord@gmail.com
+
+
+
+***
+
 
 
 ## Resumen del juego e instrucciones
