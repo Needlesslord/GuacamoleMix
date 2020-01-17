@@ -58,118 +58,118 @@ GANAR: Se cuentan los puntos y quien tenga más gana
 
 ### TURNO
 
-Robar 3 cartas de la pila general. Se descarta una de ellas. Las cartas especiales no se pueden descartar a no ser que se haya robado tres; en ese caso se descartará una de ellas. 
+ - Robar 3 cartas de la pila general. Se descarta una de ellas. Las cartas especiales no se pueden descartar a no ser que se haya robado tres; en ese caso se descartará una de ellas. 
 
 
-Si robas cartas especiales (“roba una carta ESPECIAS” o “roba una carta UTENSILIO”), muéstralas y roba una de la respectiva pila.
+ - Si robas cartas especiales (“roba una carta ESPECIAS” o “roba una carta UTENSILIO”), muéstralas y roba una de la respectiva pila.
 
 
-Robar una carta de UTENSILIO: Si robas una carta de utensilio, quédatela si está en tu receta. Si no, ponla en el centro para que otro jugador pueda pedirla (el primero se la queda). Si no la quiere nadie, descártala.
+ - Robar una carta de UTENSILIO: Si robas una carta de utensilio, quédatela si está en tu receta. Si no, ponla en el centro para que otro jugador pueda pedirla (el primero se la queda). Si no la quiere nadie, descártala.
 
 
-Robar una carta ESPECIAS: Hay tres tipos de cartas de ESPECIAS, las de usar inmediatamente (USAR), las que te guardas para usar a voluntad (GUARDAR) o las que te guardas para el final de la partida (FINAL). 
+ - Robar una carta ESPECIAS: Hay tres tipos de cartas de ESPECIAS, las de usar inmediatamente (USAR), las que te guardas para usar a voluntad (GUARDAR) o las que te guardas para el final de la partida (FINAL). 
 
 
-Si son de “USAR”, se destapa y se hace la acción en cuestión. 
+ + Si son de “USAR”, se destapa y se hace la acción en cuestión. 
 
 
-Si son de “GUARDAR”, se usan cuando el jugador elija, no tiene porqué ser su turno.
+ + Si son de “GUARDAR”, se usan cuando el jugador elija, no tiene porqué ser su turno.
 
 
-Si son de “FINAL”, se guardan para cuando hay recuento de puntos, para el final de puntos.
+ + Si son de “FINAL”, se guardan para cuando hay recuento de puntos, para el final de puntos.
 
 
 
 ### PUNTOS
 
-Los ingredientes que suman y restan: 5 de cada por receta. Todos sumarán/restarán 2 excepto 1 que será de 4 puntos.
+ - Los ingredientes que suman y restan: 5 de cada por receta. Todos sumarán/restarán 2 excepto 1 que será de 4 puntos.
 
 
-El primero en acabar tendrá un x2 en cuanto a puntos de ingredientes básicos y utensilios
+ - El primero en acabar tendrá un x2 en cuanto a puntos de ingredientes básicos y utensilios
 
 
-Si se tienen todos los ingredientes básicos serán 2 extra
+ - Si se tienen todos los ingredientes básicos serán 2 extra
 
 
-Cada ingrediente básico suma 1 punto, se pueden tener más de las que pone en la receta
+ - Cada ingrediente básico suma 1 punto, se pueden tener más de las que pone en la receta
 
 
-Cada utensilio son 2 puntos
+ - Cada utensilio son 2 puntos
 
 
-Si tienes todos los utensilios son 4 puntos extra
+ - Si tienes todos los utensilios son 4 puntos extra
 
 
-Pan de pita y Nachos dan 1 punto cada una
+ - Pan de pita y Nachos dan 1 punto cada una
 
 
-Thermomix da 5 puntos (es el único utensilio que no es obligatorio descartar)
+ - Thermomix da 5 puntos (es el único utensilio que no es obligatorio descartar)
 
 
-Hay cartas de ESPECIAS que dan puntos extra
+ - Hay cartas de ESPECIAS que dan puntos extra
 
 
 
 ### CARTAS ESPECIAS
 
-Gana 1 punto. Ganas un punto al final de la partida 
+ - **Gana 1 punto.** Ganas un punto al final de la partida 
 
 
-Pierdes 1 punto. Pierdes un punto al final de la partida
+ - **Pierdes 1 punto.** Pierdes un punto al final de la partida
 
 
-Ingrediente a escoger. Esta carta es el ingrediente que tu elijas al final de la partida
+ - **Ingrediente a escoger.** Esta carta es el ingrediente que tu elijas al final de la partida
 
 
-Utensilio a escoger. Esta carta es el utensilio que tu elijas al final de la partida
+ - **Utensilio a escoger.** Esta carta es el utensilio que tu elijas al final de la partida
 
 
-Descarta 2 cartas. Descarta dos cartas de tu elección (ingredientes y utensilios solo)
+ - **Descarta 2 cartas.** Descarta dos cartas de tu elección (ingredientes y utensilios solo)
 
 
-Descarta 1 utensilio. Descarta 1 utensilio
+ - **Descarta 1 utensilio.** Descarta 1 utensilio
 
 
-Descarta 1 ingrediente. Descarta 1 ingrediente
+ - **Descarta 1 ingrediente.** Descarta 1 ingrediente
 
 
-Roba 2 cartas. Roba dos cartas de la pila que quieras (la pila de recetas incluida, pero solo se contará una, la que elija el jugador al final de la partida)
+ - **Roba 2 cartas.** Roba dos cartas de la pila que quieras (la pila de recetas incluida, pero solo se contará una, la que elija el jugador al final de la partida)
 
 
-Roba 1 carta al jugador de tu derecha. Robas una carta al azar del jugador de tu derecha
+ - **Roba 1 carta al jugador de tu derecha.** Robas una carta al azar del jugador de tu derecha
 
 
-El jugador de la izquierda te roba 1 carta. Te roba una carta al azar el jugador de tu izquierda
+ - **El jugador de la izquierda te roba 1 carta.** Te roba una carta al azar el jugador de tu izquierda
 
 
-Guacamole Mix!. El que la roba escoge una carta al azar de cada uno y una suya (la cual no es al azar), escoge la que más quiera de entre todas y las demás las reparte al azar. 
+ - **Guacamole Mix!** El que la roba escoge una carta al azar de cada uno y una suya (la cual no es al azar), escoge la que más quiera de entre todas y las demás las reparte al azar. 
 
 
-Vendetta. Si te van a robar 1 carta, roba dos a quien te robe. Si son dos, que sean 4.
+ - **Vendetta.** Si te van a robar 1 carta, roba dos a quien te robe. Si son dos, que sean 4.
 
 
-Al ladrón. Le robas una carta a la última persona que haya robado. Si nadie ha robado o la última carta party era la de Guacamole Mix, roba de la pila.
+ - **Al ladrón.** Le robas una carta a la última persona que haya robado. Si nadie ha robado o la última carta party era la de Guacamole Mix, roba de la pila.
 
 
-Not today! Si te van a robar, le robas tú a él.
+ - **Not today!** Si te van a robar, le robas tú a él.
 
 
-Una y no más, santo Tomás. Durante 2 turnos solo puede robar una carta sin descartar el jugador que tú elijas.
+ - **Una y no más, santo Tomás.** Durante 2 turnos solo puede robar una carta sin descartar el jugador que tú elijas.
 
 
-Limosna. Dale una carta al jugador que tenga menos
+ - **Limosna.** Dale una carta al jugador que tenga menos
 
 
-Give it to me. El jugador que tenga más cartas te da 2 cartas.
+ - **Give it to me.** El jugador que tenga más cartas te da 2 cartas.
 
 
-Mix it up! Intercambia todas tus cartas con las del jugador que tú elijas.
+ - **Mix it up!** Intercambia todas tus cartas con las del jugador que tú elijas.
 
 
-Minimalista. Quien tenga más de 13 cartas (no incluida), descarta hasta quedarse con la mitad (a la alza).
+ - **Minimalista.** Quien tenga más de 13 cartas (no incluida), descarta hasta quedarse con la mitad (a la alza).
 
 
-Otra oportunidad. Si quieres cambiar de receta, puedes de entre las que no están escogidas
+ - **Otra oportunidad.** Si quieres cambiar de receta, puedes de entre las que no están escogidas
 
 
 
