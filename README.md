@@ -180,7 +180,7 @@ Otra oportunidad. Si quieres cambiar de receta, puedes de entre las que no está
 
 Se puede encontrar el Print&Play de todo el juego (instrucciones, cartas, etc.) en el siguiente link, donde se pueden descargar los .pdf e imprimir para jugar:
 
-[Print&Play](https://github.com/Needlesslord/GuacamoleMix/tree/master/Juego)
+[Print&Play para descargar](https://github.com/Needlesslord/GuacamoleMix/tree/master/Juego)
 
 
 
@@ -195,7 +195,7 @@ Se puede encontrar el Print&Play de todo el juego (instrucciones, cartas, etc.) 
 
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde está el vídeo tutorial donde se explica cómo jugar al Guacamole Mix.
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20las%20instrucciones
+[Instrucciones del Guacamole Mix GitHub](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20las%20instrucciones)
 
 ### Video tutorial con un gameplay del juego
 
@@ -203,7 +203,7 @@ https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/
 
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde hay vídeos de gameplays del Guacamole Mix.
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20un%20gameplay%20del%20juego
+[Gameplay del Guacamole Mix GitHub](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Video%20tutorial%20con%20un%20gameplay%20del%20juego)
 
 ### Pitch
 
@@ -211,15 +211,15 @@ https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/
 
 En el link a continuación se encuentra la carpeta del repositorio de GitHub donde están la presentación en formato .pdf y .pptx y el vídeo del pitch.
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Pitch
+[Pitch del Guacamole Mix GitHub](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Pitch)
 
 ### Sell Sheet
 
 En los links a continuación se encuentran las carpetas del repositorio de GitHub donde están la Sell Sheet en formato .png y .pdf y el material extra diseñado para publicitar el juego respectivamente..
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Sell%20Sheet
+[Sell Sheet](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Sell%20Sheet)
 
-https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Material%20extra
+[Material Extra](https://github.com/Needlesslord/GuacamoleMix/tree/master/Material%20Promocional/Material%20extra)
 
 ### Registro en la BGG
 
